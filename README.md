@@ -48,6 +48,7 @@ Make sure you have the following installed:
 
     ```bash
     go mod download
+    go get gofr.dev
     ```
 
 ### Configuration
