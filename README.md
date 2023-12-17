@@ -1,6 +1,6 @@
 # Hospital Management System
 
-A simple Hospital Management System implemented in Go (Golang) with GORM and MySQL.
+A simple Hospital Management System implemented in Go (Golang) with GOFR and MySQL.
 
 ## Table of Contents
 - [Overview](#overview)
